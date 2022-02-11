@@ -1,5 +1,12 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
+[![Build Status](https://dev.azure.com/srednakunowski/Create%20Your%20First%20Pipeline/_apis/build/status/srednakun.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/srednakunowski/Create%20Your%20First%20Pipeline/_build/latest?definitionId=1&branchName=master)
+
+
+
+
+
+
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
 For more information on building .NET Core applications, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core?view=azure-devops).
 
